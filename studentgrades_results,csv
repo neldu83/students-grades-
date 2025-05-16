@@ -1,0 +1,2 @@
+Name,geography,chemistry,art,total,Average,Grade,status
+"('Maria ', '87', '99', '36', 222, 74.0, 'U', 'Pass')","('Pamela', '83', '99', '22', 204, 68.0, 'U', 'Pass')","('Joel ', '27', '45', '31', 103, 34.33, 'B', 'Fail')","('Sienna ', '11', '57', '39', 107, 35.67, 'B', 'Fail')","('Scarlett', '25', '80', '41', 146, 48.67, 'B', 'Fail')"
